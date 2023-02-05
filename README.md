@@ -3,4 +3,4 @@ A proptech company currently manages thousands of homes across the United States
 
 I first clean the data, format it to be more easily analyzed, and then explore it too give the company some insights.
 
-Tableau Visualization: 
+Tableau Visualization: https://public.tableau.com/app/profile/cole.britting/viz/ProptechPriceIncrease/Dashboard1
